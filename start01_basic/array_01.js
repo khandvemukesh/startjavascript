@@ -22,23 +22,23 @@ const myArr=[0,1,3,4,5]
 // console.log(newArr);
 
 //slice ,splice
-console.log(myArr)
-console.log('A ',myArr);
-const myn1=myArr.slice(1, 3, 4)
-console.log(myn1);
-console.log('B ',myArr);
-const myn2=myArr.splice(1, 3, 4)
-console.log('c ',myArr);
-console.log(myn2);
+// console.log(myArr)
+// console.log('A ',myArr);
+// const myn1=myArr.slice(1, 3, 4)
+// console.log(myn1);
+// console.log('B ',myArr);
+// const myn2=myArr.splice(1, 3, 4)
+// console.log('c ',myArr);
+// console.log(myn2);
 
 
 // console.log(Array.isArray("Hitesh"))
 
 //console.log(Array.from("Hitesh")) // Array.from() is use for making   
 //console.log(Array.from({Name: "Hitesh"})) //interesting
-let score=200;
-let score1=200;
-let score2=200;
+// let score=200;
+// let score1=200;
+// let score2=200;
 
 //console.log(Array.of(score, score1, score2));// Array.of() is use for making   
 
